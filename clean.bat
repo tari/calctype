@@ -1,2 +1,2 @@
-..\..\bin\make.exe CONFIG=DeviceRelease clean
+%FXCGSDK%\bin\make.exe clean
 pause
